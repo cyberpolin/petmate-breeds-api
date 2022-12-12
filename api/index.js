@@ -9,9 +9,14 @@ const search = new JsSearch.Search('name')
 search.addDocuments(breeds)
 search.addIndex('name')
 
-app.use(cors({
-    "origin": "*",
-}))
+app.use(
+  cors({
+    origin: "*",
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    preflightContinue: false,
+    optionsSuccessStatus: 204,
+  })
+)
 
 app.get('/api/breeds', (req, res)=>{
     const {query} = req
