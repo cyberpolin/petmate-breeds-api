@@ -8,6 +8,7 @@ const breeds = require('./breeds.json')
 const search = new JsSearch.Search('name')
 search.addDocuments(breeds)
 search.addIndex('name')
+search.addIndex("description")
 
 app.use(
   cors({
