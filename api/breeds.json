@@ -108,18 +108,6 @@
       "long": 3,
       "smart": 4
     },
-    "images": [
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/1.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/2.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/3.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/4.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/5.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/6.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/7.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/8.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/9.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/104/10.png"
-    ],
     "description": "Es una raza canina que proviene de Irlanda, siendo la raza de perro con estatura media más alta. Un macho adulto alcanza una talla promedio de entre 81 y 86 cm. Ostenta el título de ser el perro de mayor estatura del mundo igualado con el Gran danés, si bien éste puede parecer más alto debido a su espalda más corta. "
   },
   {
@@ -130,18 +118,56 @@
       "long": 4,
       "smart": 5
     },
-    "images": [
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/11.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/12.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/13.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/14.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/15.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/16.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/17.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/18.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/19.png",
-      "https://res.cloudinary.com/kondosoft-com/image/upload/v1670947700/petmate/breeds-api/105/20.png"
-    ],
     "description": "Es un perro pastor cariñoso y modesto, muy leal a su amo. La raza también posee una predisposición hereditaria para el ganado de trabajo. Algunos agricultores afirman que su perro pastor croata conoce y distinguirá cada cabeza de ganado al escuchar su nombre."
+  },
+  {
+    "id": "106",
+    "name": "Pastor Holandés",
+    "data": {
+      "size": 3,
+      "long": 4,
+      "smart": 5
+    },
+    "description": "Es un perro rústico, con mucha energía y que necesita mucho ejercicio diario. Si se le pasea a menudo y se juega puede ser un perro muy tranquilo y muy adaptable, pero la falta de ejercicio lo puede convertir en un perro aburrido y con comportamientos destructivos. Necesitan unos dueños firmes y enérgicos, que no sean agresivos, que les proporcionen un liderazgo efectivo y decidido pero sin nada de violencia. "
+  },
+  {
+    "id": "107",
+    "name": "Lebrel Afgano",
+    "data": {
+      "size": 5,
+      "long": 5,
+      "smart": 3
+    },
+    "description": "En un principio, el lebrel afgano era empleado para perseguir presas de todo tipo en las montañas de Afganistán. Otra función del lebrel afgano era la vigilancia de los campamentos de las tribus nómadas y el ganado. Su principal característica física es el pelo largo, además de su cabeza larga y su cola terminada en anillo."
+  },
+  {
+    "id": "108",
+    "name": "Kerry Blue Terrier",
+    "data": {
+      "size": 3,
+      "long": 3,
+      "smart": 5
+    },
+    "description": "Es un animal muy dulce con los familiares, valiente y dinámico. Guardián valiente y compañero excelente, con una tendencia a la valentía disciplinada. Los kerry blue destacan por ser perros sumamente activos pero no solo son activos físicamente pues mentalmente también son inquietos y curiosos, como perros terriers que son, destacan su permanente estado de alerta y su astucia. "
+  },
+  {
+    "id": "109",
+    "name": "Kuvasz",
+    "data": {
+      "size": 4,
+      "long": 3,
+      "smart": 3
+    },
+    "description": "El temperamento del kuvasz destaca por la gran valentía y seguridad con la que ejecuta las tareas que le son designadas y lleva a cabo las interacciones en su día a día. Cuando cuenta con el afecto de una familia y es educado de forma positiva, se revela un can tranquilo, estable y muy afectuoso con los suyos."
+  },
+  {
+    "id": "110",
+    "name": "Manchester Terrier",
+    "data": {
+      "size": 4,
+      "long": 4,
+      "smart": 3
+    },
+    "description": "Tiene una gran personalidad y, a menudo, es considerado como uno de los terriers más educados. Su lealtad e inteligencia los convierten en excelentes compañeros y hábiles perros guardianes. A diferencia de otros terriers, el Terrier de Manchester fue criado para un entorno urbano. Aunque es un excelente cazador, este terrier es muy ágil debido a que ama las persecuciones."
   }
 ]
