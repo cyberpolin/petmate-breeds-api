@@ -101,22 +101,22 @@
   },
   {
     "id": "114",
-    "name": "Pastor de Brie",
+    "name": "Cobrador de pelo liso",
     "data": {
-      "size": 4,
-      "long": 4,
+      "size": 3,
+      "long": 3,
       "smart": 4
     },
-    "description": "Perro de aspecto rústico pero proporcionado, con el pelo como el de la cabra y abundante en la cara. Mide unos 55 a 65 centímetros de altura hasta la cruz. No se lava ni se esquila, siendo un cepillado con cepillo duro el poco cuidado que necesita su pelaje, que puede ser de todos los colores excepto blanco."
+    "description": "Es un perro equilibrado, sociable y juguetón. El Flat necesita estar en contacto con su familia, por lo que es recomendable mantener con él una estrecha relación permitirle participar de los planes familiares. Es un perro muy enérgico y siempre dispuesto a jugar. Por esta razón, es importante mantenerle entretenido y enseñarle normas, porque si se aburre, puede llegar a destruir cosas dentro del hogar."
   },
   {
     "id": "115",
-    "name": "Pastor de Brie",
+    "name": "Galgo español",
     "data": {
       "size": 4,
       "long": 4,
       "smart": 4
     },
-    "description": "Perro de aspecto rústico pero proporcionado, con el pelo como el de la cabra y abundante en la cara. Mide unos 55 a 65 centímetros de altura hasta la cruz. No se lava ni se esquila, siendo un cepillado con cepillo duro el poco cuidado que necesita su pelaje, que puede ser de todos los colores excepto blanco."
+    "description": "El galgo español suele tener un carácter algo tímido y reservado, especialmente con extraños. Por esa razón se recomienda socializarlos en su etapa de cachorro y seguir haciéndolo en su etapa adulta. Son perros gentiles, amables y afectuosos, muy tiernos con quienes tienen confianza y es que el galgo español es un perro sensible y muy dulce. Tienen un comportamiento excelente con niños, adultos y todo tipo de personas"
   }
 ]
