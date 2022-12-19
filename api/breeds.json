@@ -68,5 +68,55 @@
       "smart": 3
     },
     "description": "Tiene una gran personalidad y, a menudo, es considerado como uno de los terriers más educados. Su lealtad e inteligencia los convierten en excelentes compañeros y hábiles perros guardianes. A diferencia de otros terriers, el Terrier de Manchester fue criado para un entorno urbano. Aunque es un excelente cazador, este terrier es muy ágil debido a que ama las persecuciones."
+  },
+  {
+    "id": "111",
+    "name": "Retriever de Nueva Escocia",
+    "data": {
+      "size": 4,
+      "long": 4,
+      "smart": 5
+    },
+    "description": "Es un perro entusiasta, juguetón, muy activo, confiado, gentil y dulce. Además es un perro muy inteligente que resulta fácil de entrenar. Es un perro con mucha energía, pero a la vez suele ser muy paciente con los niños. A pesar de su gran energía, es un perro dócil que puede ser una excelente mascota si es que se le proporciona el ejercicio físico y mental que necesita."
+  },
+  {
+    "id": "112",
+    "name": "Münsterländer Gigante",
+    "data": {
+      "size": 4,
+      "long": 4,
+      "smart": 4
+    },
+    "description": "Este perro de campo es calmado, se lleva bien con niños y puede adaptarse a vivir en una vivienda. Las características versátiles de la raza le hacen una buena compañía para todas las facetas de la caza. Una comparativa de resultados de 82 Munsterlanders con otras 104 razas versátiles llevada a cabo por la NAVHDA, muestra como este es el más versátil de todas ellas con diferencia."
+  },
+  {
+    "id": "113",
+    "name": "Pastor de Brie",
+    "data": {
+      "size": 4,
+      "long": 4,
+      "smart": 4
+    },
+    "description": "Perro de aspecto rústico pero proporcionado, con el pelo como el de la cabra y abundante en la cara. Mide unos 55 a 65 centímetros de altura hasta la cruz. No se lava ni se esquila, siendo un cepillado con cepillo duro el poco cuidado que necesita su pelaje, que puede ser de todos los colores excepto blanco."
+  },
+  {
+    "id": "114",
+    "name": "Pastor de Brie",
+    "data": {
+      "size": 4,
+      "long": 4,
+      "smart": 4
+    },
+    "description": "Perro de aspecto rústico pero proporcionado, con el pelo como el de la cabra y abundante en la cara. Mide unos 55 a 65 centímetros de altura hasta la cruz. No se lava ni se esquila, siendo un cepillado con cepillo duro el poco cuidado que necesita su pelaje, que puede ser de todos los colores excepto blanco."
+  },
+  {
+    "id": "115",
+    "name": "Pastor de Brie",
+    "data": {
+      "size": 4,
+      "long": 4,
+      "smart": 4
+    },
+    "description": "Perro de aspecto rústico pero proporcionado, con el pelo como el de la cabra y abundante en la cara. Mide unos 55 a 65 centímetros de altura hasta la cruz. No se lava ni se esquila, siendo un cepillado con cepillo duro el poco cuidado que necesita su pelaje, que puede ser de todos los colores excepto blanco."
   }
 ]
